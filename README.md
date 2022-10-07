@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-f22/jpa02-jcucsb
 
-On Heroku: https://jpa02-ucsbnetid.herokuapp.com/
+On Heroku: https://jpa02-josephcollins.herokuapp.com/
 
 
 # About this repo
